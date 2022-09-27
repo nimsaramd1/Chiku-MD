@@ -1,8 +1,8 @@
 {
-  "name": "chiku-MD",
+  "name": "𝔹𝕃𝔸ℂ𝕂 ℕ𝕀𝕄𝕊𝔸ℝ𝔸𝕄𝔻",
   "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
   "repository": "https://github.com/Ayush-pandey-u/Chiku-MD",
-  "logo": "https://wallpapercave.com/wp/wp10524580.jpg",
+  "logo": "https://telegra.ph/file/eb450e92b63f1179902a3.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
