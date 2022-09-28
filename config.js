@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919060791616']
-global.OwnerNumber = ['919006765023']
+global.Owner = ['94743620791']
+global.OwnerNumber = ['94743620791']
 global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
-global.author = "By: Ayush"
-global.OwnerName = "Ayush"
+global.BotName = "𝔹𝕃𝔸ℂ𝕂 ℕ𝕀𝕄𝕊𝔸ℝ𝔸𝕄𝔻 𝔹𝕆𝕋"
+global.packname = "𝕊ℕ ℍ𝔸ℂ𝕂𝔼𝔻 𝔹𝕐 ℕ𝕀𝕄𝕊𝔸ℝ𝔸"
+global.author = "By: 𝙽𝙸𝙼𝚂𝙰𝚁𝙰"
+global.OwnerName = "𝙽𝙸𝙼𝚂𝙰𝚁𝙰𝙼𝙳"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
+global.SupportGroupLink = "https://chat.whatsapp.com/LU2n2L0x0HlD2IOLoJQeiX"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,16 +23,16 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "bihar, India"
-global.reactmoji = "❤️"
-global.themeemoji = "🍭"
+global.location = "Anuradhapura, Sri Lanka"
+global.reactmoji = "💕"
+global.themeemoji = "🥰"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/Ayush-pandey-u/Chiku-MD"
-global.lolhuman = "KaysaS"
+global.lolhuman = "Md"
 
 
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg")
+global.BotLogo = fs.readFileSync(".ph/file/e904d2fda23d5f9d76156.jpg")
+global.Thumb = fs.readFileSync(".ph/file/e904d2fda23d5f9d76156.jpg")
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg")
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg")
 
@@ -58,14 +58,14 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job done...',
+    jobdone: ' 𝙳𝙾𝙽𝙴 ✅...',
     useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
     botowner: 'Only my *Owner* can use this command, Baka!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
+    waiting: 𝚆𝚊𝚒𝚝 𝚖𝚞𝚗𝚒𝚝𝚜 🚀🚀🚀...',
     nolink: 'Please provide me *link*, Baka!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
